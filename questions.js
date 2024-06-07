@@ -53,7 +53,7 @@ let questions = [
             "A. bought",
             "B. buy",
             "C. buyed",
-            "D. bought",
+            "D. have bought",
 
         ]
 
